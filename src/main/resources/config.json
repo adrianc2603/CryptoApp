@@ -1,0 +1,16 @@
+{
+  "coinmarketcap": {
+    "key": "",
+    "_keyComment": "Please store your CoinMarketCap API Key here"
+  },
+  "twilio": {
+    "accountSid": "",
+    "_accountSidComment": "Please store your Twilio Account Sid here",
+    "authToken": "",
+    "_authTokenComment": "Please store your Twilio Auth Token here",
+    "phoneNumberFrom": "",
+    "_phoneNumberFromComment": "Please store your Twilio Phone Number here",
+    "phoneNumberTo": "",
+    "_phoneNumberToComment": "Please store your Personal Phone Number that you wish to send a report to here"
+  }
+}
