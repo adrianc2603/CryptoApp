@@ -30,19 +30,19 @@ input/output APIs you wish to use.
 
 2. Run using offline input API and offline output API:
 
-            gradle run --args="offline offline"
+        gradle run --args="offline offline"
             
 3. Run using offline input API and online output API:
 
-            gradle run --args="offline online"
-            
+        gradle run --args="offline online"
+           
 4. Run using online input API and offline output API:
 
-            gradle run --args="online offline"
+        gradle run --args="online offline"
             
 5. Run using online input API and online output API:
 
-            gradle run --args="online online"            
+        gradle run --args="online online"            
 
 When the application launches, the user is asked to enter a balance. This balance 
 represents the upperbound on an amount the user can convert with. Once a valid balance 
