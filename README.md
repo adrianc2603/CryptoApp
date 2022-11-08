@@ -22,8 +22,7 @@ authentication tokens. This can be stored in the config.json file located in
 src/main/resources. The online APIs will provide the user with real-time cryptocurrency 
 information, whereas the offline APIs will provide stubbed, hardcoded information.
 
-Please note that this application requires the Gradle build tool. To run the application, 
-type in to the command line "gradle run --args="input output", replacing both 'input' 
+Please note that this application requires the Gradle build tool, and was developed using Java 11. To run the application, type in to the command line "gradle run --args="input output", replacing both 'input' 
 and 'output' with either 'online' or 'offline', depending on which version of the 
 input/output APIs you wish to use. 
 
